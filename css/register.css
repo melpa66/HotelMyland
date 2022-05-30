@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(100, 120, 139);
+    background-repeat: no-repeat;
+}
+h3 {
+    font-family: 'Raleway';
+    font-size: 40px;
+}
+.register-page {
+    background: rgb(100, 120, 139);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-register{
+    align-items: center;
+    position: absolute;
+    width: 350px;
+    height: 450px;
+    left: 35%;
+    top: 20%;
+
+    background: rgba(0, 0, 0, 0.50) ;
+    border-radius: 11px;
+}
+h2 {
+    font-family: 'Raleway';
+    font-weight: 300;
+    position: relative;
+    font-size: 30px;
+    margin-top: 20px;
+
+    color: white;
+}
+label {
+    color: white;
+    font-size: 15pt;
+    font-family: 'Raleway';
+}
+form {
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    margin-top: 80px;
+    position: absolute;
+}
+.form-content {
+    text-align: center;
+    position: relative;
+    background:#86a6be;
+    border-radius: 95px;
+    width: 250px;
+    height: 35px;
+}
+.submit-btn {
+    font-size: 13pt;
+    font-weight: 600;
+    width: 120px;
+    height: 35px;
+    background: #417fb3;
+    border-radius: 10px;
+    margin-top: 45px;
+}
+.submit-btn:hover {
+    color:white;
+}
+p {
+    color: white;
+}
